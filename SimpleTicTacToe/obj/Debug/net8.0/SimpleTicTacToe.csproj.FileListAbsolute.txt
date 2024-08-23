@@ -1,0 +1,14 @@
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\net8.0\SimpleTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\net8.0\SimpleTicTacToe.AssemblyInfoInputs.cache
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\net8.0\SimpleTicTacToe.AssemblyInfo.cs
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\net8.0\SimpleTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\bin\Debug\net8.0\SimpleTicTacToe.exe
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\bin\Debug\net8.0\SimpleTicTacToe.deps.json
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\bin\Debug\net8.0\SimpleTicTacToe.runtimeconfig.json
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\bin\Debug\net8.0\SimpleTicTacToe.dll
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\bin\Debug\net8.0\SimpleTicTacToe.pdb
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\net8.0\SimpleTicTacToe.dll
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\net8.0\refint\SimpleTicTacToe.dll
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\net8.0\SimpleTicTacToe.pdb
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\net8.0\SimpleTicTacToe.genruntimeconfig.cache
+C:\Users\jmfcxty\source\repos\SimpleTicTacToe\SimpleTicTacToe\obj\Debug\net8.0\ref\SimpleTicTacToe.dll
