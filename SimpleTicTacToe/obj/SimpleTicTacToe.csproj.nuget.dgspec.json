@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmfcxty\\source\\repos\\SimpleTicTacToe\\SimpleTicTacToe\\SimpleTicTacToe.csproj": {}
+    "C:\\Users\\jmficde\\Source\\Repos\\SimpleTicTacToe\\SimpleTicTacToe\\SimpleTicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmfcxty\\source\\repos\\SimpleTicTacToe\\SimpleTicTacToe\\SimpleTicTacToe.csproj": {
+    "C:\\Users\\jmficde\\Source\\Repos\\SimpleTicTacToe\\SimpleTicTacToe\\SimpleTicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmfcxty\\source\\repos\\SimpleTicTacToe\\SimpleTicTacToe\\SimpleTicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\jmficde\\Source\\Repos\\SimpleTicTacToe\\SimpleTicTacToe\\SimpleTicTacToe.csproj",
         "projectName": "SimpleTicTacToe",
-        "projectPath": "C:\\Users\\jmfcxty\\source\\repos\\SimpleTicTacToe\\SimpleTicTacToe\\SimpleTicTacToe.csproj",
-        "packagesPath": "C:\\Users\\jmfcxty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmfcxty\\source\\repos\\SimpleTicTacToe\\SimpleTicTacToe\\obj\\",
+        "projectPath": "C:\\Users\\jmficde\\Source\\Repos\\SimpleTicTacToe\\SimpleTicTacToe\\SimpleTicTacToe.csproj",
+        "packagesPath": "C:\\Users\\jmficde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmficde\\Source\\Repos\\SimpleTicTacToe\\SimpleTicTacToe\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jmfcxty\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jmficde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

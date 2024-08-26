@@ -1,4 +1,11 @@
-﻿
+﻿/* 
+Code Jam 2 Main comments - Mahlon 
+
+- Great variable names 
+- Very interesting project
+- Overall, only big change I would make is to add comments so you can make easy changes in the future
+
+ */
 string[] grid = new string[9] { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
 bool isPlayer1Turn = true;
 int numTurns = 0;
@@ -58,6 +65,8 @@ static void ShowSplashScreen()
     //Console.ForegroundColor = ConsoleColor.White;
     Console.Clear();
     
+
+    // maybe have a comment for what this outputs
     Console.WriteLine("       .--\r\n       ==-   .\\#\\\r\n          ,-._\\\\ \\=- .\r\n          |#___\"\\ \\_);\r\n   =--      '  \\\\\\#\\\r\n      ==--      \\`--'\r\n                 \"\"         .--\r\n                     ==--   .\\#\\\r\n                         ,-._\\\\ \\=- .               )\r\n                  ==-    |#___\"\\ \\_);              (\r\n                           '  \\\\\\#\\                 ))\r\n                        ==-    \\`--'               ((\r\n                                \"\"                  ))\r\n      ______________                __              (  __\r\n    ,'              `.            ('__`>           , ) __`.\r\n   /                  \\____       /==(^)     ______ ( -'_--`.\r\n  |     All right!     ,-'        `\\_-/    |()|::::)= '_`.  .\r\n  |     All right!     |     _____ / /\\  /)____||____\\_-``.\r\n  |   You guys win!    |          `-------'            \\-`   ,\r\n   \\                  /      &  ,   .  &  ,   .  &  ,   | '\r\n    `.______________,'       _\\'     `/_\\'     `/_\\'    |\r\n                             _|`.   ,'|_|`.   ,'|_|`.   |\r\n                                                        |\\\r\n                             __________________________/__\\\r\n                                                     .`.-_-\\\r\n                                                    `_`.'_-_\\\r\n                                                       -- -");
     Console.WriteLine("888   d8b        888                   888                    \r\n888   Y8P        888                   888                    \r\n888              888                   888                    \r\n888888888 .d8888b888888 8888b.  .d8888b888888 .d88b.  .d88b.  \r\n888   888d88P\"   888       \"88bd88P\"   888   d88\"\"88bd8P  Y8b \r\n888   888888     888   .d888888888     888   888  88888888888 \r\nY88b. 888Y88b.   Y88b. 888  888Y88b.   Y88b. Y88..88PY8b.     \r\n \"Y888888 \"Y8888P \"Y888\"Y888888 \"Y8888P \"Y888 \"Y88P\"  \"Y8888  ");
     Console.WriteLine("\n");
